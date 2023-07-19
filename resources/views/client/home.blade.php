@@ -20,6 +20,7 @@
                 </article>
             </a>
         @endforeach
+        @endif
         <a href="{{ route('login') }}">Se connecter</a>
 
         </section>
